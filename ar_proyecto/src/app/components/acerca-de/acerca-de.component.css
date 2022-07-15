@@ -6,11 +6,11 @@ div{
     text-align: center;
 }
 /*Estilo de las fotos de perfil*/
-    @media (min-width: 576px) {
+@media (min-width: 576px) {
         #Fotodeperfil{
             position: absolute;
             width: 15%;
-            border-radius: 100%;
+            border: radius 1px;
             box-shadow: 3px 3px 3px grey;
         }
     }
