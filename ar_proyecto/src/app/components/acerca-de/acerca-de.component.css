@@ -9,11 +9,11 @@ div{
 @media (min-width: 576px) {
         #Fotodeperfil{
             position: absolute;
-            width: 15%;
+            width: 20%;
             border-radius: 100%;
             box-shadow: 3px 3px 3px grey;
             left: 5%;
-            top: 500px;
+            top: 650px;
         }
     }
 /* etiqueta nombre*/
