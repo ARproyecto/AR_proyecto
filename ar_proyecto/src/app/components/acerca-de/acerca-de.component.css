@@ -7,7 +7,7 @@ div{
 }
 /*Estilo de las fotos de perfil*/
     @media (min-width: 576px) {
-        #Fotodeperfil {
+        #Fotodeperfil{
             position: absolute;
             width: 15%;
             border-radius: 100%;
