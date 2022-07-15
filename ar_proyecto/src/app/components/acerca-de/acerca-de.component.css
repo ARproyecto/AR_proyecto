@@ -5,6 +5,15 @@ div{
     background-color: #a1b5cb;
     text-align: center;
 }
+/*Estilo de las fotos de perfil*/
+    @media (min-width: 576px) {
+        #Fotodeperfil {
+            position: absolute;
+            width: 15%;
+            border-radius: 100%;
+            box-shadow: 3px 3px 3px grey;
+        }
+    }
 /* etiqueta nombre*/
 #nombre{
     font-weight: bold;
