@@ -7,7 +7,7 @@
 @media (min-width: 576px) { 
         #Fotodeperfil{
             position: absolute;
-            width: 20%;
+            width: 15%;
             border-radius: 100%;
             box-shadow: 3px 3px 3px grey;
             left: 3%;
@@ -20,8 +20,8 @@
         width: 30%;
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
-        left: 34%;
-        top: 600px;
+        left: 33%;
+        top: 950px;
     }
 }
 /* etiqueta nombre*/
