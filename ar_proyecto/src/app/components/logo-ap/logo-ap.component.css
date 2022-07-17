@@ -16,7 +16,7 @@ img{
     border-width: medium;
 }
 /*-- para celular --*/
-    @media (max-widht: 575px) {
+@media (max-widht: 575px) {
         .container{
             flex-direction: column;
         }
@@ -28,6 +28,6 @@ img{
         .redes img{
             margin: 0.2em;
         }  
-    }
+}
     
 
